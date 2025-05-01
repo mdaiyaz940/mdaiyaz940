@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Aiyaz Ansari</h1>
-<h3 align="center">Passionate About Problem Solving</h3>
+<h3 align="center">Full Stack Developer | DSA Enthusiast with a Passion for Problem Solving</h3>
 
 - 📫 How to reach me **mdaiyazansari940@gmail.com**
 
