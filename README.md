@@ -2,6 +2,8 @@
 <h3 align="center">Full Stack Developer | DSA Enthusiast with a Passion for Problem Solving</h3>
 
 - 📫 How to reach me **mdaiyazansari940@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/1S-MVFyDg0SGnTrXLd48PhnIzfZRska7p/view?usp=sharing )
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
